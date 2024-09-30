@@ -1,0 +1,7 @@
+bin/shellcode_.sc.bin
+counter
+nhu
+objects/shellcode_.sc.o
+shellcode.h
+shellcode_x86_64-linux-gnu-sc.c
+shellcode_x86_64-linux-gnu-sc.h
